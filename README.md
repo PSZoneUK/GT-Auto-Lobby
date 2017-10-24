@@ -1,2 +1,2 @@
 # GT-Auto-Lobby
-Ver : ALPHA 0.00.024
+Ver : BETA 24.10.533
